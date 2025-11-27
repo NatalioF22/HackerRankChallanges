@@ -1,4 +1,4 @@
-package CountElementsGreaterThanPreviousAverage;
+package CountResponseTimeRegressions;
 import java.util.ArrayList;
 import java.util.List;
 
